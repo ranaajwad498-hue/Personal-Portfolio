@@ -2,7 +2,7 @@
 
 A personal portfolio website built with pure HTML, CSS, and JavaScript. Showcases my projects, technical skills, and background as a CS student at NUML targeting ML and data science internships.
 
-🔗 **Live Demo:** [your-username.github.io/portfolio](https://your-username.github.io/portfolio) ← replace with your actual URL
+🔗 **Live Demo:** https://github.com/ranaajwad498-hue/Personal-Portfolio/blob/main/ajwad_portfolio.html
 
 ---
 
